@@ -84,7 +84,5 @@ public class MainActivity extends AppCompatActivity {
             return number1/number2;
 
     }
-
-
-    }
 }
+
